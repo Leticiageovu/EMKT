@@ -1,0 +1,98 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex-wrap: wrap;
+}
+.logo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: xx-large; 
+    padding: 0 10px 0 10px;
+    border: 1px solid black;
+}
+.firstpart{
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+}
+.img{    width: 100%; }
+.firstpart.partone{
+    display: flex;
+    justify-content: center;
+    max-width: 600px;
+}
+.text{
+    max-width: 520px;
+    font-size: large;
+    text-align: center;
+}
+
+.secondpart{
+    max-width: 580px;
+    font-size: large;
+    margin: 20px;
+    text-align: justify;
+}
+
+.pai{display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 600px;
+    margin: 25px;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.customize{ max-width:280px}
+.pai.filho.dois{
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    max-width: 250px;
+}
+.Lorem{
+    max-width: 280px;
+    text-align: left;
+    font-size: larger;
+} 
+.handspinches{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 15px;
+}
+.thirdpart{
+    text-align: left;
+    max-width: 585px;
+}
+.Boost{text-align: left;
+    max-width: 280px;
+    font-size: larger;
+}
+.Try{color: black;
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-flex;
+    border-radius: 5px;
+    text-decoration:none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width:  530px;
+    margin: 25px;
+}
+.imagem-container{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+hr{
+    border: 1px solid black;
+    width: 60%;
+}

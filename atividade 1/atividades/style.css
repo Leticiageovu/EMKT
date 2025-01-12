@@ -1,0 +1,105 @@
+body{ padding-inline: 170px;}
+
+.log{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.firstpart{
+    padding-inline: 5px;
+}
+.email{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.handsgrip{
+ position: relative;
+ height: 320px;
+}
+.text{
+    text-align: center;
+    height: 20px ;
+}
+.Try{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    display: inline-block;
+    left: 155px;
+    padding: 10px;
+    border: 1px solid black;
+
+    }
+#text-container{
+    position: relative;
+    height: 250px;
+}
+.text-container{
+    
+    width: 215px;
+    }
+.text-cont{
+    position: absolute;
+    top: 0px;
+    left: 216px;
+    width: 215px;
+}
+.textboost{
+ text-align: left;
+}
+.imagem.container{
+ position: relative;
+ 
+}
+.handspinch{    
+    height: 215px;
+}
+.handsgive{
+    height: 215px;
+}
+.customize{
+  text-align: left;
+}
+
+.try{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid black;
+}
+.handspinches{
+    position: relative;
+    height: 212px;
+}
+.img.container{
+    position: relative;
+}
+.handsphone{
+    height: 215px;
+}
+.handsrandom{
+    height: 215px;
+}
+.corporation{
+    text-align: center;
+}
+.receiving{
+    text-align: center;
+}
+.imagem-container{
+    position: relative;
+    height: 70%;
+    top: 70%;
+    left: 37%;
+}
+
+.address{
+    text-align: center;
+}
+.city{
+    text-align: center;
+}
+.unsubscribe{
+    text-align: center;
+}
+.LOGO{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}

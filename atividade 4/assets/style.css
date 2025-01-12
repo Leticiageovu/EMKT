@@ -1,0 +1,100 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    font-size: xx-large;
+    padding: 0 10px 0 10px;
+}
+.firstpart{
+     display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 600px;
+}
+.first{
+    width: 100%;
+    background-color: rgb(204 249 249);
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.Boost{ text-align: center;
+    font-size: x-large;
+    max-width: 590px;
+}
+.img{
+   width: 100%;
+}
+.botao{
+    padding:  10px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.pai{display: flex;
+       
+        flex-direction: row;
+        gap: 15px;
+        flex-wrap: wrap;
+}
+.pai.filho.dois{
+    display: flex;
+        flex-direction: column;
+        max-width: 280px;
+    }
+.parttwo{
+    max-width: 300px;
+}
+.Customize{
+    font-size: xx-large;
+    
+}
+.emails{
+    font-size: larger;
+    text-align: left;
+}
+.secondpart{
+    display: flex ;
+        max-width: 570px;
+        flex-direction: row;
+        background-color: #E2D4FF;
+        gap: 25px;
+        padding: 30px;
+    }
+.second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Blush{
+    text-align: center;
+    font-size: x-large;
+    margin: 0px
+}
+.text{
+    max-width: 600px;
+    font-size: larger;
+    text-align: justify;
+    margin: 30px;
+}
+.footer{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 450px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+hr{border: 1px solid black;
+    width: 60%;}
+@media (max-width: 600px){
+    .secondpart{ flex-direction: column;
+        align-items: center;}
+}
